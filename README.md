@@ -10,3 +10,8 @@ This is the place to visit if you want to learn some good stuff in Javascript. W
 
 JS God Mode is an amazing repository of Javascript tips and tricks. We'll cover all the things you need to know about the language, so that you can dominate your programming field.
 
+## Table of contents
+
+### Node JS
+
+-   [Deleting Node modules](node/deleting-node-modules.md)
